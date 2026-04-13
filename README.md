@@ -21,7 +21,7 @@ The parser reads a list of page URLs from the configuration, extracts item links
 ## Usage
 
 Run the parser from the project root:
-   python src/main.py
+    python src/main.py
 
 ## What happens during execution
 
