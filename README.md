@@ -17,6 +17,7 @@ The parser reads a list of page URLs from the configuration, extracts item links
    cd ITparser
 2. Install dependencies:
    pip install -r requirements.txt
+3. Create folders: logs, data, configs (or alternatively change src/config.py) 
 
 ## Usage
 
